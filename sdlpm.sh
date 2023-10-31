@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone 
+git clone https://github.com/davi7475/sdlinux.git
